@@ -10,7 +10,6 @@
         <version>0.0.1-SNAPSHOT</version>
     </parent>
 
-    <groupId>org.starrier</groupId>
     <artifactId>netty-flower-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
